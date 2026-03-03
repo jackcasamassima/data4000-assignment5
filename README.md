@@ -3,7 +3,7 @@
 ### DATA 4000 — Python with AI
 ### Assignment 5: Conditionals, Loops, Exceptions, and Libraries
 
-Repository Contents
+Repository Contents:
 
 pos_checkout.py
 
@@ -11,13 +11,13 @@ inventory_spotcheck.py
 
 README.md
 
-Required Installation
+### Required Installation
 
 Exercise 2 requires the requests library.
 
 Install using:
 
-pip install requests
+"pip install requests"
 
 If needed:
 
@@ -45,6 +45,7 @@ Subtotal: $145.00
 Discount: 10%
 Perk applied: NO
 Total: $130.50
+
 Example Run — inventory_spotcheck.py
 Student key: abc123
 SKU: A100
