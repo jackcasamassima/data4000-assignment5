@@ -1,7 +1,7 @@
-###data4000-assignment5
+### data4000-assignment5 
 
-###DATA 4000 — Python with AI
-###Assignment 5: Conditionals, Loops, Exceptions, and Libraries
+### DATA 4000 — Python with AI
+### Assignment 5: Conditionals, Loops, Exceptions, and Libraries
 
 Repository Contents
 
